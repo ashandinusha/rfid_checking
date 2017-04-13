@@ -2,6 +2,7 @@
 ##RC522 Module checking with Arduino UNO
 
  Typical pin layout used:
+ 
 |Signal| MFRC522 Reader/PCD Pin| UNO|Mega|
 |------|-----------------------|----|----|
 |RST/Reset| RST| 9 | 5|
